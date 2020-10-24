@@ -241,6 +241,10 @@ a:active {
 
 /* pseudo classes for portfolio links  */
 
+.portfolio-link:link {
+  color: #000000;
+}
+
 .portfolio-link:visited {
   color: #000000;
 }
